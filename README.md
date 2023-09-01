@@ -4,6 +4,8 @@ Python code and files used for testing GPT-3.5 and GPT-4's lung nodule follow-up
 This repository enables transparent review of the methodology of our recent research paper on the limitations of GPT in applying 2017 Fleischner Society guidelines. 
 
 ## Files
+
+```bash
 ├── README.md
 ├── GPT_report_generator.py                              # Python application. Contains all the functions used to generate nodule descriptions and interact with the GPT API
 ├── static                                               # Static files for app
