@@ -1,0 +1,34 @@
+SOLID NODULES
+Single
+Single solid nodule <6 mm (<100 mm3)
+* low-risk patients: no routine follow-up required
+* high-risk patients: optional CT at 12 months (particularly with suspicious nodule morphology and/or upper lobe location; see "risk assessment" below)
+Solitary solid nodule 6-8 mm (100-250 mm3)
+* low-risk patients: CT at 6-12 months, then consider CT at 18-24 months
+* high-risk patients: CT at 6-12 months, then CT at 18-24 months
+Solitary solid nodule >8 mm (>250 mm3)
+* low-risk and high-risk patients: consider CT at 3 months, PET-CT, or tissue sampling
+
+Multiple
+Multiple solid nodules <6 mm (<100 mm3)
+* low-risk patients: no routine follow-up required
+* high-risk patients: optional CT at 12 months
+Multiple solid nodules >6 mm (>100 mm3)
+* low-risk patients: CT at 3-6 months, then consider CT at 18-24 months
+* high-risk patients: CT at 3-6 months, then CT at 18-24 months
+When multiple nodules are present, the most suspicious nodule should guide further individualised management.
+
+SUBSOLID NODULES
+Single
+Single ground glass nodule <6 mm (<100 mm3)
+* No routine follow-up required
+Single ground glass nodule ≥6 mm (>100 mm3)
+* CT at 6-12 months, then if persistent, CT every 2 years until 5 years
+Single part-solid nodule ≥6 mm (>100 mm3)
+* CT at 3-6 months, then if persistent and solid component remains <6 mm, annual CT until 5 years
+
+Multiple
+Multiple subsolid nodules <6 mm (<100 mm3)
+* CT at 3-6 months, then if stable consider CT at 2 and 4 years in high-risk patients
+Multiple subsolid nodules ≥6 mm (>100 mm3)
+* CT at 3-6 months, then subsequent management based on the most suspicious nodule(s)
